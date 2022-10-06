@@ -1,4 +1,4 @@
-module dag_store
+module dagstore
 
 go 1.17
 

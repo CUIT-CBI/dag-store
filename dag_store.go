@@ -2,7 +2,7 @@ package dagstore
 
 import (
 	"context"
-	levelstore "dag_store/store"
+	levelstore "dagstore/store"
 	"fmt"
 	"github.com/ipfs/go-blockservice"
 	"github.com/ipfs/go-cid"
