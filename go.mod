@@ -1,4 +1,4 @@
-module dagstore
+module github.com/CUIT-CBI/dag-store
 
 go 1.17
 
